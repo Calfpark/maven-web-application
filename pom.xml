@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla-releases</name>
-	      <url>hhttp://18.191.137.8:8089/Tesla/repository/Tesla-releases/</url>
+	      <url>http://18.191.137.8:8089/Tesla/repository/Tesla-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
