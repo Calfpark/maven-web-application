@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.7</version>
+	<version>0.0.2</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla-releases</name>
-	      <url>http://18.191.137.8:8089/Tesla/repository/Tesla-releases/</url>
+	      <url>http://18.191.137.8:8089/Tesla/repository/Tesla_released/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
